@@ -39,12 +39,25 @@
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Stack | Enlace |
+### 🤖 Proyectos de Machine Learning
+*Enfoque en análisis de datos, entrenamiento de modelos y métricas estadísticas.*
+
+| Proyecto | Algoritmos Clave | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **NeoCare Health** | Gestión Kanban End-to-End | `React` `FastAPI` `PostgreSQL` | [Explorar ↗️](https://github.com/Nachoide100/NeoCare-Health) |
-| **Habitual-AI** | Predicción de hábitos con ML | `Python` `Scikit-Learn` `FastAPI` | [Explorar ↗️](https://github.com/TU_USUARIO/Habitual-AI) |
+| **NBA MoneyBall** | Random Forest / K-NN | `Scikit-learn` `Pandas` | [Explorar Repo ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning)) |
+| **E-Commerce Prediction** | NLP / Random Forest | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
+
+<br>
+
+### 🏗️ Proyectos End-to-End
+*Sistemas completos que integran Base de Datos, Backend, API y Frontend.*
+
+| Proyecto | Arquitectura | Stack Principal | Enlace |
+| :--- | :--- | :--- | :--- |
+| **NeoCare Health** | REST API + Kanban UI | `FastAPI` `React` `Postgres` | [Explorar Repo ↗️](https://github.com/Nachoide100/NeoCare-Health) |
+| **Registro de Hábitos** | Full Stack Web App | `Python` `SQLAlchemy` `MUI` | [Explorar Repo ↗️](https://github.com/Nachoide100/Habitual-AI.git) |
 
 ## 📊 Mi Actividad en GitHub
 
-![Estadísticas de Nacho](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Estadísticas de Nacho](https://github-readme-stats.vercel.app/api?username=Nachoide100&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachoide100&layout=compact&theme=radical)
