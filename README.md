@@ -44,9 +44,10 @@
 
 | Proyecto | Algoritmos Clave | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **NBA MoneyBall** | Random Forest / K-NN | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning)) |
-| **E-Commerce Prediction** | NLP / Random Forest | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
-| **Houses Price Prediction** | EDA / LinearRegression | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
+| **Predicción de salarios jugadores NBA** | Random Forest / K-NN | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning) |
+| **Análisis ratings productos e - commerce** | NLP / Random Forest | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
+| **Predicción de precios de inmuebles** | EDA / LinearRegression | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
+| **Clasificación de imágenes** | Multioutput Classification | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
 
 <br>
 
