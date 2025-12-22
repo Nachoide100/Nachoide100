@@ -1,3 +1,5 @@
+
+
 # ¡Hola! Soy Nacho Rubio 🚀
 
 <p align="left">
@@ -5,6 +7,7 @@
 </p>
 
 ---
+
 
 ### 🤝 Conectemos
 <p align="left">
@@ -37,6 +40,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+
+
 ## 📂 Proyectos Destacados
 
 ### 🤖 Proyectos de Machine Learning
@@ -59,7 +64,29 @@
 | **NeoCare Health** | REST API + Kanban UI | `FastAPI` `React` `Postgres` | [Explorar Repo ↗️](https://github.com/Nachoide100/NeoCare-Health) |
 | **Registro de Hábitos** | Full Stack Web App | `Python` `SQLAlchemy` `MUI` | [Explorar Repo ↗️](https://github.com/Nachoide100/Habitual-AI.git) |
 
-## 📊 Mi Actividad en GitHub
+<div id="formacion"></div>
 
-![Estadísticas de Nacho](https://github-readme-stats.vercel.app/api?username=Nachoide100&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachoide100&layout=compact&theme=radical)
+## 🎓 Certificaciones & Educación
+*Demostrando compromiso con el aprendizaje continuo en el campo de la Inteligencia Artificial.*
+
+| Certificación | Institución | Fecha | Credencial |
+| :--- | :--- | :--- | :--- |
+| **Data Science Professional Certificate** | IBM / Coursera | 2024 | [Ver Certificado ↗️](#) |
+| **Machine Learning Specialization** | DeepLearning.AI | 2024 | [Ver Certificado ↗️](#) |
+| **PostgreSQL for Data Science** | University of Michigan | 2023 | [Ver Certificado ↗️](#) |
+
+<div id="intereses"></div>
+
+## 🎯 En qué estoy enfocado ahora
+* **Explorando:** Grandes Modelos de Lenguaje (LLMs) y cómo desplegarlos mediante arquitecturas RAG.
+* **Profundizando:** Técnicas de optimización de hiperparámetros y MLOps para automatizar el ciclo de vida de los modelos.
+* **Buscando:** Mi primera oportunidad profesional como Junior Data Scientist para aplicar modelos predictivos a problemas de negocio reales.
+
+<div id="lecturas"></div>
+
+## 📚 Mis Referencias Técnicas
+*Libros y recursos que han moldeado mi forma de entender los datos.*
+
+- 📖 **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** - Aurélien Géron.
+- 📖 **"Storytelling with Data"** - Cole Nussbaumer Knaflic (Enfoque en visualización efectiva).
+- 📖 **"Clean Code"** - Robert C. Martin (Aplicado a la mantenibilidad de scripts de datos).
