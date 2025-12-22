@@ -1,7 +1,7 @@
 # ¡Hola! Soy Nacho Rubio 🚀
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Especialista+en+Machine+Learning;Creador+de+Soluciones+End-to-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Junior+Data+Scientist;Especialista+en+Machine+Learning;Creador+de+Soluciones+End-to-End" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,27 +12,36 @@
 <a href="mailto:TU_EMAIL" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## 🛠️ Tecnologías y Herramientas
 
-### 🌐 Frontend & Diseño
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+## 🧪 Stack Tecnológico de Data Science
 
-### ⚙️ Backend & DB
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 🤖 Inteligencia Artificial & Data
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📊 Análisis y Manipulación de Datos
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📈 Visualización de Datos
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### 🤖 Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### 🛠️ MLOps & Entorno de Desarrollo
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## 📂 Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
-| **NeoCare Health** | Gestión Kanban End-to-End | `React` `FastAPI` `PostgreSQL` | [Explorar ↗️](https://github.com/TU_USUARIO/NeoCare-Health) |
+| **NeoCare Health** | Gestión Kanban End-to-End | `React` `FastAPI` `PostgreSQL` | [Explorar ↗️](https://github.com/Nachoide100/NeoCare-Health) |
 | **Habitual-AI** | Predicción de hábitos con ML | `Python` `Scikit-Learn` `FastAPI` | [Explorar ↗️](https://github.com/TU_USUARIO/Habitual-AI) |
 
 ## 📊 Mi Actividad en GitHub
