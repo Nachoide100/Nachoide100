@@ -44,8 +44,9 @@
 
 | Proyecto | Algoritmos Clave | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **NBA MoneyBall** | Random Forest / K-NN | `Scikit-learn` `Pandas` | [Explorar Repo ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning)) |
+| **NBA MoneyBall** | Random Forest / K-NN | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning)) |
 | **E-Commerce Prediction** | NLP / Random Forest | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
+| **Houses Price Prediction** | EDA / LinearRegression | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
 
 <br>
 
