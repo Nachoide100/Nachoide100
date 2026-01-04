@@ -75,7 +75,7 @@
     <td width="50%" valign="top">
       <h3>📖 Conceptos Clave</h3>
       <ul>
-        <li><b>Preguntas generales Machine Learning <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b>Preguntas generales Machine Learning <a href="Preguntas_generales.md">Leer más ↗️</a></li>
         <li><b>Regularización L1 vs L2:</b> Por qué Lasso ayuda a la selección de variables. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
         <li><b>El Gradiente Descendente:</b> Visualización de la optimización desde cero. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
       </ul>
