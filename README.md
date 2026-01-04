@@ -76,7 +76,7 @@
       <h3>📖 Conceptos Clave</h3>
       <ul>
         <li><b>Preguntas generales Machine Learning <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/d637f3727725155df6778aae058c4b8a2ba822b1/Preguntas_generales.md">Leer más ↗️</a></li>
-        <li><b>Regularización L1 vs L2:</b> Por qué Lasso ayuda a la selección de variables. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b> "Todo" sobre las Support Vector Machines <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/f4ac411f1a07dc6d0468834995becc8961a49a4d/SVMs.md">Leer más ↗️</a></li>
         <li><b>El Gradiente Descendente:</b> Visualización de la optimización desde cero. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
       </ul>
     </td>
