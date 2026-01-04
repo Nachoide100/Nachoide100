@@ -77,7 +77,8 @@
       <ul>
         <li><b>Preguntas generales Machine Learning <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/d637f3727725155df6778aae058c4b8a2ba822b1/Preguntas_generales.md">Leer más ↗️</a></li>
         <li><b> "Todo" sobre las Support Vector Machines <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/f4ac411f1a07dc6d0468834995becc8961a49a4d/SVMs.md">Leer más ↗️</a></li>
-        <li><b>El Gradiente Descendente:</b> Visualización de la optimización desde cero. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b>Cómo entrenar tus modelos de ML <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/f4ac411f1a07dc6d0468834995becc8961a49a4d/Entrenar_modelos.md">Leer más ↗️</a></li>
+        <li><b>Y más en...  <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git">Leer más ↗️</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
