@@ -53,7 +53,6 @@
 | **Análisis ratings productos e - commerce** | NLP / Random Forest | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
 | **Predicción de precios de inmuebles** | EDA / LinearRegression | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
 | **Clasificación de imágenes** | Multioutput Classification | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
-
 <br>
 
 ### 🏗️ Proyectos End-to-End
@@ -66,6 +65,35 @@
 
 <div id="formacion"></div>
 
+---
+
+## 🧠 Laboratorio de Aprendizaje y Conceptos (Deep Dive)
+*Documentando mi proceso de estudio y resolución de problemas teóricos de mis referencias técnicas.*
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 Conceptos Explicados</h3>
+      <ul>
+        <li><b>Trade-off Sesgo-Varianza:</b> ¿Cuándo estamos sobreajustando realmente? <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b>Regularización L1 vs L2:</b> Por qué Lasso ayuda a la selección de variables. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b>El Gradiente Descendente:</b> Visualización de la optimización desde cero. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Problemas de "Hands-On ML"</h3>
+      <ul>
+        <li><b>Capítulo 3:</b> Implementación de un clasificador multietiqueta desde cero. <a href="TU_LINK_A_SOLUCION">Ver solución ↗️</a></li>
+        <li><b>Capítulo 5:</b> Optimización de hiperparámetros en SVM usando Random Search. <a href="TU_LINK_A_SOLUCION">Ver solución ↗️</a></li>
+        <li><b>Estadística:</b> ¿Por qué el Teorema del Límite Central es el corazón del DS? <a href="TU_LINK_A_SOLUCION">Ver nota ↗️</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> [!TIP]
+> Estoy construyendo un **[Wiki de Machine Learning](TU_LINK_A_TU_REPO_KNOWLEDGE_BASE)** con todas mis notas de estudio y respuestas a ejercicios de libros técnicos.
+> 
 ## 🎓 Certificaciones & Educación
 *Demostrando compromiso con el aprendizaje continuo en el campo de la Inteligencia Artificial.*
 
