@@ -92,7 +92,7 @@
 </table>
 
 > [!TIP]
-> Estoy construyendo un **[Wiki de Machine Learning](TU_LINK_A_TU_REPO_KNOWLEDGE_BASE)** con todas mis notas de estudio y respuestas a ejercicios de libros técnicos.
+> Estoy construyendo un **[Wiki de Machine Learning](https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git)** con todas mis notas de estudio y respuestas a ejercicios de libros técnicos.
 > 
 ## 🎓 Certificaciones & Educación
 *Demostrando compromiso con el aprendizaje continuo en el campo de la Inteligencia Artificial.*
