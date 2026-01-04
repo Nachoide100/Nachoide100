@@ -68,14 +68,14 @@
 ---
 
 ## 🧠 Laboratorio de Aprendizaje y Conceptos (Deep Dive)
-*Documentando mi proceso de estudio y resolución de problemas teóricos de mis referencias técnicas.*
+*Documentando mi proceso de estudio y resolución de problemas teóricos (por si alguien está igual de perdido que yo :)*
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 Conceptos Explicados</h3>
+      <h3>📖 Conceptos Clave</h3>
       <ul>
-        <li><b>Trade-off Sesgo-Varianza:</b> ¿Cuándo estamos sobreajustando realmente? <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
+        <li><b>Preguntas generales Machine Learning <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
         <li><b>Regularización L1 vs L2:</b> Por qué Lasso ayuda a la selección de variables. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
         <li><b>El Gradiente Descendente:</b> Visualización de la optimización desde cero. <a href="TU_LINK_A_NOTA">Leer más ↗️</a></li>
       </ul>
