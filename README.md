@@ -84,7 +84,7 @@
     <td width="50%" valign="top">
       <h3>🧪 Problemas de "Hands-On ML"</h3>
       <ul>
-        <li><b>Capítulo 3:</b> Implementación de un clasificador multietiqueta desde cero. <a href="TU_LINK_A_SOLUCION">Ver solución ↗️</a></li>
+        <li><b>Capítulo 3:</b> Implementación de un Random Forest sin Scikit - Learn. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/fae614a93dfddcd9f54b73f68c94567dde716ac7/Algoritmos%20de%20ML/Decision_trees.ipynb">Ver solución ↗️</a></li>
         <li><b>Capítulo 5:</b> Optimización de hiperparámetros en SVM usando Random Search. <a href="TU_LINK_A_SOLUCION">Ver solución ↗️</a></li>
         <li><b>Estadística:</b> ¿Por qué el Teorema del Límite Central es el corazón del DS? <a href="TU_LINK_A_SOLUCION">Ver nota ↗️</a></li>
       </ul>
