@@ -75,7 +75,7 @@
     <td width="50%" valign="top">
       <h3>📖 Conceptos Clave</h3>
       <ul>
-        <li><b>Preguntas generales Machine Learning <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/d637f3727725155df6778aae058c4b8a2ba822b1/Preguntas_generales.md">Leer más ↗️</a></li>
+        <li><b>Preguntas generales Machine Learning <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/72cac96255cd6a5039f3376f08ea4aee7ff349f6/Conceptos%20Generales/Preguntas_generales.md">Leer más ↗️</a></li>
         <li><b> "Todo" sobre las Support Vector Machines <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/f4ac411f1a07dc6d0468834995becc8961a49a4d/SVMs.md">Leer más ↗️</a></li>
         <li><b>Cómo entrenar tus modelos de ML <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/f4ac411f1a07dc6d0468834995becc8961a49a4d/Entrenar_modelos.md">Leer más ↗️</a></li>
         <li><b>Y más en...  <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git">Leer más ↗️</a></li>
