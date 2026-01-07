@@ -42,6 +42,15 @@
 
 
 
+### 🏗️ Proyectos End-to-End
+*Sistemas completos que integran Base de Datos, Backend, API y Frontend.*
+
+| Proyecto | Arquitectura | Stack Principal | Enlace |
+| :--- | :--- | :--- | :--- |
+| **NeoCare Health** | REST API + Kanban UI | `FastAPI` `React` `Postgres` | [Explorar Repo ↗️](https://github.com/Nachoide100/NeoCare-Health) |
+| **Panel IA Control de Hábitos** | Full Stack Web App | `Python` `SQLAlchemy` `React` | [Explorar Repo ↗️](https://github.com/Nachoide100/Habitual-AI.git) |
+
+
 ## 📂 Proyectos Destacados
 
 ### 🤖 Proyectos de Machine Learning
@@ -55,13 +64,7 @@
 | **Clasificación de imágenes** | Multioutput Classification | `Pandas` `Scikit-learn` | [Explorar Repo ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
 <br>
 
-### 🏗️ Proyectos End-to-End
-*Sistemas completos que integran Base de Datos, Backend, API y Frontend.*
 
-| Proyecto | Arquitectura | Stack Principal | Enlace |
-| :--- | :--- | :--- | :--- |
-| **NeoCare Health** | REST API + Kanban UI | `FastAPI` `React` `Postgres` | [Explorar Repo ↗️](https://github.com/Nachoide100/NeoCare-Health) |
-| **Registro de Hábitos** | Full Stack Web App | `Python` `SQLAlchemy` `MUI` | [Explorar Repo ↗️](https://github.com/Nachoide100/Habitual-AI.git) |
 
 <div id="formacion"></div>
 
