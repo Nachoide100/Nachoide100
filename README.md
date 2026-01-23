@@ -62,7 +62,7 @@
       <h3>📖 Conceptos de Análisis</h3>
       <ul>
         <li><b>Limpieza y Validación de Datos:</b> Procesos para asegurar la calidad del dato en el proyecto <i>Habitual</i>. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Conceptos%20Generales/Data_Cleaning.md">Leer más ↗️</a></li>
-        <li><b>SQL para Analítica:</b> Agregaciones, Joins y optimización de consultas para extracción de métricas. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/SQL_for_Analytics.md">Leer más ↗️</a></li>
+        <li><b>SQL para Analítica:</b> Trabajo sobre time series y window rolling <a href="https://github.com/Nachoide100/Anal-sis-Retail-Sales/tree/fe1eb28484d1dfd20e7e6eba0f4d850e9a39e28b">Leer más ↗️</a></li>
         <li><b>Metodología SMART:</b> Aplicada a la definición de objetivos de negocio.</li>
       </ul>
     </td>
@@ -77,12 +77,11 @@
   </tr>
 </table>
 
-## 🎓 Certificaciones & Educación
-| Certificación | Institución | Credencial |
-| :--- | :--- | :--- |
-| **Data Analytics Professional Certificate** | Google | [Ver Certificado ↗️](#) |
-| **Data Science Professional Certificate** | IBM | [Ver Certificado ↗️](#) |
-| **SQL for Data Science** | UC Davis (Univ. of California) | [Ver Certificado ↗️](#) |
+## 🎓 Certificaciones Destacadas
+
+| [Google Data Analytics](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/Google_data_analytics.pdf) | [IBM Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/ibm.pdf) | [SQL for Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/SQLDatascience.pdf) |
+| :---: | :---: | :---: |
+| <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/Google_data_analytics.png" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/ibm.png" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/SQLDatascience.png" width="250"> |
 
 ## 🎯 En qué estoy enfocado ahora
 * **Data Storytelling:** Perfeccionando la habilidad de comunicar hallazgos técnicos a audiencias no técnicas.
@@ -95,3 +94,7 @@
 - 📖 **"Practical Statistics for Data Scientists"** - Peter Bruce & Andrew Bruce (O'Reilly).
 - 📖 **"SQL for Data Analysis"** - Cathy Tanimura (O'Reilly).
 - 📖 **"Storytelling with Data"** - Cole Nussbaumer Knaflic.
+
+
+
+
