@@ -1,7 +1,7 @@
 # ¡Hola! Soy Nacho Rubio 📊🚀
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Junior+Data+Analyst;Especialista+en+Data+Storytelling;SQL+%26+BI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Junior+Data+Analyst;Trabajando+con+SQL+%26+BI" alt="Typing SVG" />
 </p>
 
 ---
