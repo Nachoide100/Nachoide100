@@ -63,7 +63,7 @@
     <td width="50%" valign="top">
       <h4>📖 Conceptos de Análisis</h4>
       <ul>
-        <li><b>SQL para Analítica:</b> Análisis de <i>Time Series</i> y <i>Rolling Windows</i> aplicados a retail. <a href="https://github.com/Nachoide100/Anal-sis-Retail-Sales/tree/fe1eb28484d1dfd20e7e6eba0f4d850e9a39e28b">Ver proyecto ↗️</a></li>
+        <li><b>SQL para Analítica:</b> Análisis de <i>Time Series</i> y <i>Rolling Windows</i> aplicados a retail. <a href="https://github.com/Nachoide100/Retail-Sales.git">Ver proyecto ↗️</a></li>
         <li><b>Limpieza y Validación:</b> Procesos de calidad del dato en entornos dinámicos (Habitual). <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Conceptos%20Generales/Data_Cleaning.md">Leer nota ↗️</a></li>
       </ul>
     </td>
