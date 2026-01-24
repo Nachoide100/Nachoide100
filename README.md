@@ -79,7 +79,7 @@
 
 ---
 
-### 🧪 [Data Science & Research ↗️](https://github.com/Nachoide100/Teoria-ML-y-Data-Science)
+### 🧪 [Data Science & Research ↗️](https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git)
 **Base de conocimientos sobre algoritmos, estadística avanzada y modelado predictivo.**
 
 <table border="0">
