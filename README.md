@@ -52,26 +52,50 @@
 | **Clasificación de Imágenes** | **Preprocesamiento masivo de datasets** y optimización de etiquetas para sistemas de organización automatizada. | `Data Augmentation` | [Explorar ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
 
 ---
+## 🧠 Hub de Conocimiento Técnico (Deep Dive)
+*Documentando la lógica y el rigor que garantizan la integridad de mis análisis.*
 
-## 🧠 Laboratorio de Análisis de Datos (Deep Dive)
-*Documentando la base teórica que garantiza la integridad de mis análisis.*
+### 📊 [Data Analysis Wiki ↗️](https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git)
+**Repositorio dedicado a la metodología de negocio, limpieza y visualización interactiva.**
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 Conceptos de Análisis</h3>
+      <h4>📖 Conceptos de Análisis</h4>
       <ul>
-        <li><b>Limpieza y Validación de Datos:</b> Procesos para asegurar la calidad del dato en el proyecto <i>Habitual</i>. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Conceptos%20Generales/Data_Cleaning.md">Leer más ↗️</a></li>
-        <li><b>SQL para Analítica:</b> Trabajo sobre time series y window rolling <a href="https://github.com/Nachoide100/Anal-sis-Retail-Sales/tree/fe1eb28484d1dfd20e7e6eba0f4d850e9a39e28b">Leer más ↗️</a></li>
-        <li><b>Metodología SMART:</b> Aplicada a la definición de objetivos de negocio.</li>
+        <li><b>SQL para Analítica:</b> Análisis de <i>Time Series</i> y <i>Rolling Windows</i> aplicados a retail. <a href="https://github.com/Nachoide100/Anal-sis-Retail-Sales/tree/fe1eb28484d1dfd20e7e6eba0f4d850e9a39e28b">Ver proyecto ↗️</a></li>
+        <li><b>Limpieza y Validación:</b> Procesos de calidad del dato en entornos dinámicos (Habitual). <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Conceptos%20Generales/Data_Cleaning.md">Leer nota ↗️</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Casos de Estudio</h3>
+      <h4>🎯 Estrategia y BI</h4>
       <ul>
-        <li><b>Análisis de Sesgos (Bias):</b> Cómo evitar conclusiones erróneas en estudios de salud y e-commerce.</li>
-        <li><b>Visualización Efectiva:</b> Aplicando principios de <i>Storytelling with Data</i> en dashboards de Power BI.</li>
-        <li><b>Estadística:</b> El Teorema del Límite Central aplicado al muestreo de poblaciones.</li>
+        <li><b>Metodología SMART:</b> Aplicación de objetivos medibles en la toma de decisiones.</li>
+        <li><b>Data Storytelling:</b> Principios de visualización efectiva aplicados en <b>Power BI</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧪 [Data Science & Research ↗️](https://github.com/Nachoide100/Teoria-ML-y-Data-Science)
+**Base de conocimientos sobre algoritmos, estadística avanzada y modelado predictivo.**
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Machine Learning Core</h4>
+      <ul>
+        <li><b>Algoritmos Clave:</b> Profundización en SVMs, Árboles de Decisión y Random Forest. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/SVMs.md">Explorar ↗️</a></li>
+        <li><b>Optimización:</b> Estrategias de entrenamiento y ajuste de hiperparámetros. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Entrenar_modelos.md">Leer más ↗️</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚖️ Ética y Estadística</h4>
+      <ul>
+        <li><b>Evaluación de Sesgos (Bias):</b> Identificación de anomalías éticas en modelos de clasificación.</li>
+        <li><b>Fundamentos Estadísticos:</b> Teorema del Límite Central y Distribuciones en muestras grandes.</li>
       </ul>
     </td>
   </tr>
