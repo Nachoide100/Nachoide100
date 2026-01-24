@@ -55,7 +55,7 @@
 ## 🧠 Hub de Conocimiento Técnico (Deep Dive)
 *Documentando la lógica y el rigor que garantizan la integridad de mis análisis.*
 
-### 📊 [Data Analysis Wiki ↗️](https://github.com/Nachoide100/Teoria-ML-y-Data-Science.git)
+### 📊 [Data Analysis Wiki ↗️](https://github.com/Nachoide100/Teoria-Data-Analysis.git)
 **Repositorio dedicado a la metodología de negocio, limpieza y visualización interactiva.**
 
 <table border="0">
