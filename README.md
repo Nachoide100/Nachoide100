@@ -47,6 +47,7 @@
 
 | Proyecto | Enfoque de Análisis de Datos | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
+| **US Political Discourse Analytics** | **Pipeline ETL (SQL/Python)** y Dashboard en Power BI para analizar patrones geoespaciales y calidad de engagement en 1.2M de tweets. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
 | **Predicción Salarios NBA** | **Limpieza de datos históricos** y Feature Engineering para identificar correlaciones entre rendimiento físico y valor de mercado. | `Pandas` `EDA` `Scikit-learn` | [Explorar ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning) |
 | **Ratings e-commerce** | **NLP y Transformación de datos no estructurados** para convertir reseñas de texto en métricas de satisfacción del cliente. | `NLTK` `Random Forest` | [Explorar ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
 | **Precios de Inmuebles** | **Análisis Exploratorio (EDA)** exhaustivo y detección de valores atípicos (outliers) para validar tendencias del mercado inmobiliario. | `Seaborn` `Statistics` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
