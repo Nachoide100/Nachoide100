@@ -105,9 +105,13 @@
 
 ## 🎓 Certificaciones Destacadas
 
-| [Google Data Analytics](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/Google_data_analytics.pdf) | [IBM Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/ibm.pdf) | [SQL for Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/SQLDatascience.pdf) |
+| [Google Data Analytics](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/Google_data_analytics.pdf) | [IBM Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/ibm.pdf) | [SQL for Data Science](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/SQLDatascience.pdf) |
 | :---: | :---: | :---: |
-| <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/Google_data_analytics.png" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/ibm.png" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e83b105e267f68bf0aba9e9a038097edaf7577c0/Certificates/SQLDatascience.png" width="250"> |
+| <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/Google_data_analytics.png?raw=true" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/ibm.png?raw=true" width="250"> | <img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/main/Certificates/SQLDatascience.png?raw=true" width="250"> |
+
+| [Microsoft Power BI](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/bdbe23eef2e88769efc71ca4febf02b41fc8d246/Certificates/Microsoft_powerBI.pdf) |
+| :---: |
+<img src="https://github.com/Nachoide100/Teoria-Data-Analysis/blob/e6119f0a3a39688481075a86366a6256547448a8/Certificates/Microsoft_power_BI.png" width="250"> |
 
 ## 🎯 En qué estoy enfocado ahora
 * **Data Storytelling:** Perfeccionando la habilidad de comunicar hallazgos técnicos a audiencias no técnicas.
