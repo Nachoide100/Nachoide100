@@ -35,19 +35,28 @@
 ---
 
 ## 🏗️ Proyectos End-to-End (Desarrollo de Soluciones de Datos)
-*Sistemas completos que demuestran mi capacidad para gestionar el ciclo de vida del dato desde la ingesta hasta la visualización.*
+*Sistemas completos de construcción de apps desde la idea hasta la interfaz del usuario*
 
 | Proyecto | Valor Analítico | Stack Principal | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Panel IA Control de Hábitos** | Seguimiento de KPIs de salud y segmentación de usuarios mediante lógica de clustering. | `FastAPI` `SQLAlchemy` `React` | [Explorar Repo ↗️](https://github.com/Nachoide100/Habitual-AI.git) |
 | **NeoCare Health** | Gestión de datos operativos y optimización de flujos de trabajo en salud. | `FastAPI` `React` `Postgres` | [Explorar Repo ↗️](https://github.com/Nachoide100/NeoCare-Health) |
 
-## 📂 Análisis de Datos y Modelado Predictivo
+## 🚀 Proyectos Destacados (Full-Stack Data Analysis)
+*Proyectos integrales que demuestran el ciclo completo del dato: Extracción (SQL), Procesamiento (Python) y Visualización (Power BI).*
+
+| Proyecto | Business Value & Pipeline | Stack | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Optimización de Librería** | **Business Intelligence:** Análisis de rotación de inventario y métricas de préstamos para optimizar el stock y reducir costes operativos. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Optimizacion-libreria.git) |
+| **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
+| **US Political Discourse** | **Pipeline ETL Geoespacial:** Limpieza masiva de 1.2M de tweets y dashboard interactivo para analizar patrones de engagement político por estado. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
+
+
+## 📂 Otros Proyectos Análisis de Datos y Modelado Predictivo
 *Proyectos enfocados en la extracción de insights a través de la limpieza profunda y el análisis estadístico.*
 
 | Proyecto | Enfoque de Análisis de Datos | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **US Political Discourse Analytics** | **Pipeline ETL (SQL/Python)** y Dashboard en Power BI para analizar patrones geoespaciales y calidad de engagement en 1.2M de tweets. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
 | **Predicción Salarios NBA** | **Limpieza de datos históricos** y Feature Engineering para identificar correlaciones entre rendimiento físico y valor de mercado. | `Pandas` `EDA` `Scikit-learn` | [Explorar ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning) |
 | **Ratings e-commerce** | **NLP y Transformación de datos no estructurados** para convertir reseñas de texto en métricas de satisfacción del cliente. | `NLTK` `Random Forest` | [Explorar ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
 | **Precios de Inmuebles** | **Análisis Exploratorio (EDA)** exhaustivo y detección de valores atípicos (outliers) para validar tendencias del mercado inmobiliario. | `Seaborn` `Statistics` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
