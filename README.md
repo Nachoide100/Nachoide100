@@ -52,7 +52,7 @@
 | **US Political Discourse** | **Pipeline ETL Geoespacial:** Limpieza masiva de 1.2M de tweets y dashboard interactivo para analizar patrones de engagement político por estado. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
 
 
-## 📂 Otros Proyectos Análisis de Datos y Modelado Predictivo
+### 📂 Otros Proyectos Análisis de Datos y Modelado Predictivo
 *Proyectos enfocados en la extracción de insights a través de la limpieza profunda y el análisis estadístico.*
 
 | Proyecto | Enfoque de Análisis de Datos | Herramientas | Enlace |
@@ -63,8 +63,8 @@
 | **Clasificación de Imágenes** | **Preprocesamiento masivo de datasets** y optimización de etiquetas para sistemas de organización automatizada. | `Data Augmentation` | [Explorar ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
 
 ---
-## 🧠 Hub de Conocimiento Técnico (Deep Dive)
-*Documentando la lógica y el rigor que garantizan la integridad de mis análisis.*
+## 🧠 Teoría
+*Información que voy sacando y completando de los recursos que estudio*
 
 ### 📊 [Data Analysis Wiki ↗️](https://github.com/Nachoide100/Teoria-Data-Analysis.git)
 **Repositorio central de conocimiento: Metodología, fundamentos estadísticos y práctica técnica.**
@@ -75,15 +75,13 @@
       <h4>💻 SQL & Práctica Técnica</h4>
       <ul>
         <li><b>Practicar SQL (Challenge):</b> Colección de ejercicios resueltos enfocados en lógica compleja (<i>Joins, CTEs, Window Functions</i>). <a href="https://github.com/Nachoide100/Practicar-SQL.git">Ver código ↗️</a></li>
-        <li><b>SQL para Retail:</b> Caso de uso real analizando <i>Time Series</i> y <i>Rolling Windows</i>. <a href="https://github.com/Nachoide100/Retail-Sales.git">Ver proyecto ↗️</a></li>
+        <li><b>SQL para Retail:</b> Caso de práctica analizando <i>Time Series</i> y <i>Rolling Windows</i>. <a href="https://github.com/Nachoide100/Retail-Sales.git">Ver proyecto ↗️</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Estadística & Estrategia</h4>
       <ul>
         <li><b>Fundamentos Estadísticos:</b> Preguntas sobre distribuciones, detección de outliers y validación de hipótesis. <a href="https://github.com/Nachoide100/Preguntas-estadistica.git">Ver conceptos ↗️</a></li>
-        <li><b>Data Storytelling:</b> Principios de visualización efectiva aplicados en <b>Power BI</b>.</li>
-        <li><b>Metodología SMART:</b> Aplicación de objetivos medibles para la traducción de datos a decisiones de negocio.</li>
       </ul>
     </td>
   </tr>
@@ -103,14 +101,6 @@
         <li><b>Optimización:</b> Estrategias de entrenamiento y ajuste de hiperparámetros. <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Entrenar_modelos.md">Leer más ↗️</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>⚖️ Ética y Estadística</h4>
-      <ul>
-        <li><b>Evaluación de Sesgos (Bias):</b> Identificación de anomalías éticas en modelos de clasificación.</li>
-        <li><b>Fundamentos Estadísticos:</b> Teorema del Límite Central y Distribuciones en muestras grandes.</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 ## 🎓 Certificaciones Destacadas
