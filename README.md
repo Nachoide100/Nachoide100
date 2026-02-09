@@ -67,22 +67,23 @@
 *Documentando la lógica y el rigor que garantizan la integridad de mis análisis.*
 
 ### 📊 [Data Analysis Wiki ↗️](https://github.com/Nachoide100/Teoria-Data-Analysis.git)
-**Repositorio dedicado a la metodología de negocio, limpieza y visualización interactiva.**
+**Repositorio central de conocimiento: Metodología, fundamentos estadísticos y práctica técnica.**
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>📖 Conceptos de Análisis</h4>
+      <h4>💻 SQL & Práctica Técnica</h4>
       <ul>
-        <li><b>SQL para Analítica:</b> Análisis de <i>Time Series</i> y <i>Rolling Windows</i> aplicados a retail. <a href="https://github.com/Nachoide100/Retail-Sales.git">Ver proyecto ↗️</a></li>
-        <li><b>Limpieza y Validación:</b> Procesos de calidad del dato en entornos dinámicos (Habitual). <a href="https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/main/Conceptos%20Generales/Data_Cleaning.md">Leer nota ↗️</a></li>
+        <li><b>Practicar SQL (Challenge):</b> Colección de ejercicios resueltos enfocados en lógica compleja (<i>Joins, CTEs, Window Functions</i>). <a href="https://github.com/Nachoide100/Practicar-SQL.git">Ver código ↗️</a></li>
+        <li><b>SQL para Retail:</b> Caso de uso real analizando <i>Time Series</i> y <i>Rolling Windows</i>. <a href="https://github.com/Nachoide100/Retail-Sales.git">Ver proyecto ↗️</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Estrategia y BI</h4>
+      <h4>🧠 Estadística & Estrategia</h4>
       <ul>
-        <li><b>Metodología SMART:</b> Aplicación de objetivos medibles en la toma de decisiones.</li>
+        <li><b>Fundamentos Estadísticos:</b> Preguntas sobre distribuciones, detección de outliers y validación de hipótesis. <a href="https://github.com/Nachoide100/Preguntas-estadistica.git">Ver conceptos ↗️</a></li>
         <li><b>Data Storytelling:</b> Principios de visualización efectiva aplicados en <b>Power BI</b>.</li>
+        <li><b>Metodología SMART:</b> Aplicación de objetivos medibles para la traducción de datos a decisiones de negocio.</li>
       </ul>
     </td>
   </tr>
