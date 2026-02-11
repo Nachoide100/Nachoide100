@@ -47,6 +47,7 @@
 
 | Proyecto | Business Value & Pipeline | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
+| **Airbnb Market Intelligence** | **Business Value & Pipeline:** Sistema de valoración inmobiliaria End-to-End. Utiliza Random Forest para predecir precios de mercado y detectar oportunidades de inversión (activos infravalorados). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/An-lisis-Airbnb.git) |
 | **Optimización de Librería** | **Business Intelligence:** Análisis de rotación de inventario y métricas de préstamos para optimizar el stock y reducir costes operativos. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Optimizacion-libreria.git) |
 | **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
 | **US Political Discourse** | **Pipeline ETL Geoespacial:** Limpieza masiva de 1.2M de tweets y dashboard interactivo para analizar patrones de engagement político por estado. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
