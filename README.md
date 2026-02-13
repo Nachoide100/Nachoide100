@@ -47,6 +47,7 @@
 
 | Proyecto | Business Value & Pipeline | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
+| **Zaragoza Real Estate Pulse** | **PropTech & Data Engineering:** Pipeline de análisis inmobiliario End-to-End. Implementa ingestión resiliente (DOM Parsing) y modelado en SQL para detectar oportunidades de inversión (activos infravalorados) mediante algoritmos de precio/m² y seguridad. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Idealista-Zaragoza/blob/7429421662802300fbdcaaf67a9b3fe926be772c/README.md) |
 | **Airbnb Market Intelligence** | **Business Value & Pipeline:** Sistema de valoración inmobiliaria End-to-End. Utiliza Random Forest para predecir precios de mercado y detectar oportunidades de inversión (activos infravalorados). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/An-lisis-Airbnb.git) |
 | **Optimización de Librería** | **Business Intelligence:** Análisis de rotación de inventario y métricas de préstamos para optimizar el stock y reducir costes operativos. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Optimizacion-libreria.git) |
 | **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
