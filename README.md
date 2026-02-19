@@ -34,7 +34,7 @@
 
 ---
 
-## 🏗️ Proyectos End-to-End (Desarrollo de Soluciones de Datos)
+## 🏗️ Proyectos End-to-End (Apps)
 *Sistemas completos de construcción de apps desde la idea hasta la interfaz del usuario*
 
 | Proyecto | Valor Analítico | Stack Principal | Enlace |
@@ -56,7 +56,7 @@
 
 
 ### 📂 Otros Proyectos Análisis de Datos y Modelado Predictivo
-*Proyectos enfocados en la extracción de insights a través de la limpieza profunda y el análisis estadístico.*
+*Proyectos más simples enfocados al entendimiento del proceso de análisis y predicción*
 
 | Proyecto | Enfoque de Análisis de Datos | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
