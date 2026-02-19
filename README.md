@@ -47,11 +47,12 @@
 
 | Proyecto | Business Value & Pipeline | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
+| **Data Analysis Market Pulse** | **Market Intelligence & Pipeline:** Sistema de monitorización del mercado laboral End-to-End. Utiliza Web Scraping (Python/Regex) y SQL Avanzado para mapear portales de empleo y detectar las combinaciones de habilidades más rentables (Tech Stacks) del sector Data. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Infojobs.git) |
 | **Zaragoza Real Estate Pulse** | **PropTech & Data Engineering:** Pipeline de análisis inmobiliario End-to-End. Implementa ingestión resiliente (DOM Parsing) y modelado en SQL para detectar oportunidades de inversión (activos infravalorados) mediante algoritmos de precio/m² y seguridad. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Idealista-Zaragoza/blob/7429421662802300fbdcaaf67a9b3fe926be772c/README.md) |
 | **Airbnb Market Intelligence** | **Business Value & Pipeline:** Sistema de valoración inmobiliaria End-to-End. Utiliza Random Forest para predecir precios de mercado y detectar oportunidades de inversión (activos infravalorados). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/An-lisis-Airbnb.git) |
 | **Optimización de Librería** | **Business Intelligence:** Análisis de rotación de inventario y métricas de préstamos para optimizar el stock y reducir costes operativos. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Optimizacion-libreria.git) |
 | **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
-| **US Political Discourse** | **Pipeline ETL Geoespacial:** Limpieza masiva de 1.2M de tweets y dashboard interactivo para analizar patrones de engagement político por estado. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
+
 
 
 ### 📂 Otros Proyectos Análisis de Datos y Modelado Predictivo
@@ -63,7 +64,7 @@
 | **Ratings e-commerce** | **NLP y Transformación de datos no estructurados** para convertir reseñas de texto en métricas de satisfacción del cliente. | `NLTK` `Random Forest` | [Explorar ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
 | **Precios de Inmuebles** | **Análisis Exploratorio (EDA)** exhaustivo y detección de valores atípicos (outliers) para validar tendencias del mercado inmobiliario. | `Seaborn` `Statistics` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
 | **Clasificación de Imágenes** | **Preprocesamiento masivo de datasets** y optimización de etiquetas para sistemas de organización automatizada. | `Data Augmentation` | [Explorar ↗️](https://github.com/Nachoide100/Proyecto-ML-Classification) |
-
+| **US Political Discourse** | **Pipeline ETL Geoespacial:** Limpieza masiva de 1.2M de tweets y dashboard interactivo para analizar patrones de engagement político por estado. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-tweets-politicos.git) |
 ---
 ## 🧠 Teoría
 *Información que voy sacando y completando de los recursos que estudio*
