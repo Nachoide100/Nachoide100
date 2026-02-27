@@ -123,11 +123,12 @@
 * **Buscando:** Mi primera oportunidad como **Junior Data Analyst** para transformar datos crudos en estrategias de crecimiento empresarial.
 
 ## 📚 Mis Referencias Técnicas
-*Bibliografía esencial para un análisis riguroso y ético.*
+*Libros que he ido leyendo para aprender*
 
-- 📖 **"Practical Statistics for Data Scientists"** - Peter Bruce & Andrew Bruce (O'Reilly).
-- 📖 **"SQL for Data Analysis"** - Cathy Tanimura (O'Reilly).
+- 📖 **"Practical Statistics for Data Scientists"** - Peter Bruce & Andrew Bruce (O'Reilly) -> [Apuntes](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/196c6b5cbf60c8b92bf7f928c5bcd3ef32a89a17/pdfs/Practical%20Statistics%20for%20Data%20Science.pdf)
+- 📖 **"SQL for Data Analysis"** - Cathy Tanimura (O'Reilly) -> [Apuntes](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/196c6b5cbf60c8b92bf7f928c5bcd3ef32a89a17/pdfs/Learn_SQL_Basics_for_Data_Science.pdf)
 - 📖 **"Storytelling with Data"** - Cole Nussbaumer Knaflic -> [Apuntes](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/5681b646ea6d70c66f9325fec58b9772a47fa861/pdfs/Storytelling.pdf)
+- 📖 **"Hands On Machine Learning with Scikit-Learn, Keras & TensorFlow"** - Aurélien Géron -> [Apuntes](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/6897da49c5bb570f72d111a92dddf2b8af51cd37/pdfs/Hands%20On%20Machine%20Learning.pdf)
 
 
 
