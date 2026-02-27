@@ -127,7 +127,7 @@
 
 - 📖 **"Practical Statistics for Data Scientists"** - Peter Bruce & Andrew Bruce (O'Reilly).
 - 📖 **"SQL for Data Analysis"** - Cathy Tanimura (O'Reilly).
-- 📖 **"Storytelling with Data"** - Cole Nussbaumer Knaflic.
+- 📖 **"Storytelling with Data"** - Cole Nussbaumer Knaflic -> [Apuntes](https://github.com/Nachoide100/Teoria-Data-Analysis/blob/5681b646ea6d70c66f9325fec58b9772a47fa861/pdfs/Storytelling.pdf)
 
 
 
