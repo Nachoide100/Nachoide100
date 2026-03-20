@@ -47,14 +47,14 @@
 
 | Proyecto | Business Value & Pipeline | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
+| **Football Talent Scouting AI** | **Business Value & Pipeline:** Plataforma *End-to-End* de scouting y mercado. Utiliza Similitud del Coseno para detectar talentos infravalorados (*Moneyball*), automatizar ventas (*Reverse Scouting*) y simular el impacto deportivo en negociaciones de élite. | `Python` `Scikit-Learn` `Streamlit` `Plotly` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Footbal-Talent.git) |
 | **Pro Sports Injury Prevention** | **Business Value & Pipeline:** Sistema de inteligencia deportiva End-to-End. Utiliza Random Forest para predecir el riesgo de lesión por sobrecarga (ACWR) y maximizar la disponibilidad de la plantilla en equipos de élite (Load Management). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Lesiones.git) |
 | **Padel Revenue Analytics** | **SportsTech & Revenue Management:** Pipeline de inteligencia operativa End-to-End. Simula demanda probabilística y modela en SQL para maximizar la rentabilidad de clubes deportivos en Zaragoza mediante estrategias de precios dinámicos y reducción del coste de oportunidad (*Lost Revenue*). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-PadelZgz.git) |
 | **Gym Churn & Revenue Analytics** | **Fitness Analytics & Retention:** Sistema End-to-End para prevenir bajas y analizar la rentabilidad. Detecta clientes en riesgo mediante Machine Learning (*Random Forest*) y modela KPIs financieros en SQL (MRR, LTV, Cohortes) para impulsar estrategias de retención proactiva. | `SQL` `Python` `Scikit-Learn` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Gym-Churn.git) |
 | **Zaragoza Real Estate Pulse** | **PropTech & Data Engineering:** Pipeline de análisis inmobiliario End-to-End. Implementa ingestión resiliente (DOM Parsing) y modelado en SQL para detectar oportunidades de inversión (activos infravalorados) mediante algoritmos de precio/m² y seguridad. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Idealista-Zaragoza/blob/7429421662802300fbdcaaf67a9b3fe926be772c/README.md) |
 | **Airbnb Market Intelligence** | **Business Value & Pipeline:** Sistema de valoración inmobiliaria End-to-End. Utiliza Random Forest para predecir precios de mercado y detectar oportunidades de inversión en Barcelona (activos infravalorados). | `SQL` `Python` `Scikit-Learn` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/An-lisis-Airbnb.git) |
-| **Data Analysis Market Pulse** | **Market Intelligence & Pipeline:** Sistema de monitorización del mercado laboral End-to-End. Utiliza Web Scraping (Python/Regex) y SQL Avanzado para mapear portales de empleo y detectar las combinaciones de habilidades más rentables (Tech Stacks) del sector Data. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Infojobs.git) |
 | **Optimización de Librería** | **Business Intelligence:** Análisis de rotación de inventario y métricas de préstamos para optimizar el stock y reducir costes operativos. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Optimizacion-libreria.git) |
-| **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
+
 
 
 
@@ -63,6 +63,8 @@
 
 | Proyecto | Enfoque de Análisis de Datos | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
+| **Data Analysis Market Pulse** | **Market Intelligence & Pipeline:** Sistema de monitorización del mercado laboral End-to-End. Utiliza Web Scraping (Python/Regex) y SQL Avanzado para mapear portales de empleo y detectar las combinaciones de habilidades más rentables (Tech Stacks) del sector Data. | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Infojobs.git) |
+| **Monitorización Sísmica** | **Ingeniería de Riesgos & BI:** Transformación de datos geológicos crudos en KPIs de riesgo y recurrencia (Ventanas SQL y Fórmulas Gutenberg-Richter). | `SQL` `Python` `Power BI` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Earthquakes.git) |
 | **Predicción Salarios NBA** | **Limpieza de datos históricos** y Feature Engineering para identificar correlaciones entre rendimiento físico y valor de mercado. | `Pandas` `EDA` `Scikit-learn` | [Explorar ↗️](https://github.com/Nachoide100/NBA-Salary-Prediction-Machine-Learning) |
 | **Ratings e-commerce** | **NLP y Transformación de datos no estructurados** para convertir reseñas de texto en métricas de satisfacción del cliente. | `NLTK` `Random Forest` | [Explorar ↗️](https://github.com/Nachoide100/Random-Forest-Amazon-Products) |
 | **Precios de Inmuebles** | **Análisis Exploratorio (EDA)** exhaustivo y detección de valores atípicos (outliers) para validar tendencias del mercado inmobiliario. | `Seaborn` `Statistics` | [Explorar ↗️](https://github.com/Nachoide100/Analisis-Regresion-Vivienda) |
